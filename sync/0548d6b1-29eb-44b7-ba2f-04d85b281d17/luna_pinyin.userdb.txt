@@ -1,0 +1,12 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	6
+#@/user_id	0548d6b1-29eb-44b7-ba2f-04d85b281d17
+bao cuo 	報錯	c=1 d=1 t=5
+bu ju 	佈局	c=1 d=1 t=3
+jian pan 	鍵盤	c=1 d=1 t=2
+jian ti 	簡體	c=1 d=1 t=1
+shuang pin 	雙拼	c=1 d=1 t=6
+zhong wen 	中文	c=1 d=1 t=4
